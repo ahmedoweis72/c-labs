@@ -11,3 +11,17 @@
 	<stdlib.h>
 	<string.h>
 
+1732224063 source:/home/ahmed-ramadan/Documents/C/lab3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+
+1731928623 /home/ahmed-ramadan/Documents/C/lab3/conio.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+
